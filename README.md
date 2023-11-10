@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iniubongisemin
 - 👀 I’m interested in fullstack development projects 
-- 🌱 I’m currently learning backend development 
+- 🌱 I’m currently learning backend web development 
 - 💞️ I’m looking to collaborate on fullstack development projects 
 - 📫 You can reach me via:
 - linkedin.com/in/iniubongisemin 
