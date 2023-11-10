@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning backend web development 
 - 💞️ I’m looking to collaborate on fullstack development projects 
 - 📫 You can reach me via:
-- linkedin.com/in/iniubongisemin 
+- linkedin.com/in/iniubongisemin
+- twitter.com/iniubongisemin
 
 <!---
 iniubongisemin/iniubongisemin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
