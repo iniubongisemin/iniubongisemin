@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building APIs for AI powered projects 
 - 📫 You can reach me via:
 - linkedin.com/in/iniubongisemin
-- twitter.com/iniubongisemin
+- eugeneinie@gmail.com
 
 <!---
 iniubongisemin/iniubongisemin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
