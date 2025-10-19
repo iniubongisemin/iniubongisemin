@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iniubongisemin
-- 👀 I’m interested in backend REST API projects 
+- 👀 I’m interested in Django projects 
 - 🌱 I’m currently growing my python-django skills 
 - 💞️ I’m looking to collaborate on building APIs for AI powered projects 
 - 📫 You can reach me via:
